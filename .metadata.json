@@ -1,0 +1,10 @@
+[
+  {
+    "package": "arpr",
+    "oncran": true
+  },
+  {
+    "package": "gitlabr",
+    "oncran": true
+  }
+]
