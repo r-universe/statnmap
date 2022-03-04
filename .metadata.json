@@ -1,10 +1,23 @@
 [
   {
-    "package": "arpr",
-    "oncran": true
+    "package": "cartomisc"
   },
   {
-    "package": "gitlabr",
-    "oncran": true
+    "package": "servers.tools"
+  },
+  {
+    "package": "SDMSelect"
+  },
+  {
+    "package": "pdfreport"
+  },
+  {
+    "package": "HatchedPolygons"
+  },
+  {
+    "package": "tweetrbot"
+  },
+  {
+    "package": "GeoDist"
   }
 ]
