@@ -1,40 +1,28 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/statnmap/universe
-	shallow = true
+	url = https://github.com/statnmap/statnmap.r-universe.dev
 	branch = HEAD
-[submodule "cartomisc"]
-	path = cartomisc
-	url = https://github.com/statnmap/cartomisc
-	shallow = true
-	registered = true
-[submodule "servers.tools"]
-	path = servers.tools
-	url = https://github.com/statnmap/servers.tools
-	shallow = true
-	registered = true
-[submodule "SDMSelect"]
-	path = SDMSelect
-	url = https://github.com/statnmap/SDMSelect
-	shallow = true
-	registered = true
-[submodule "pdfreport"]
-	path = pdfreport
-	url = https://github.com/statnmap/pdfreport
-	shallow = true
-	registered = true
-[submodule "HatchedPolygons"]
-	path = HatchedPolygons
-	url = https://github.com/statnmap/HatchedPolygons
-	shallow = true
-	registered = true
-[submodule "tweetrbot"]
-	path = tweetrbot
-	url = https://github.com/statnmap/tweetrbot
-	shallow = true
-	registered = true
 [submodule "GeoDist"]
 	path = GeoDist
 	url = https://github.com/statnmap/GeoDist
-	shallow = true
-	registered = true
+[submodule "HatchedPolygons"]
+	path = HatchedPolygons
+	url = https://github.com/statnmap/HatchedPolygons
+[submodule "SDMSelect"]
+	path = SDMSelect
+	url = https://github.com/statnmap/SDMSelect
+[submodule "cartomisc"]
+	path = cartomisc
+	url = https://github.com/statnmap/cartomisc
+[submodule "parsermd"]
+	path = parsermd
+	url = https://github.com/statnmap/parsermd@no-c++
+[submodule "pdfreport"]
+	path = pdfreport
+	url = https://github.com/statnmap/pdfreport
+[submodule "servers.tools"]
+	path = servers.tools
+	url = https://github.com/statnmap/servers.tools
+[submodule "tweetrbot"]
+	path = tweetrbot
+	url = https://github.com/statnmap/tweetrbot
