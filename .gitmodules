@@ -16,7 +16,8 @@
 	url = https://github.com/statnmap/cartomisc
 [submodule "parsermd"]
 	path = parsermd
-	url = https://github.com/statnmap/parsermd@no-c++
+	url = https://github.com/statnmap/parsermd
+	branch = nocpp
 [submodule "pdfreport"]
 	path = pdfreport
 	url = https://github.com/statnmap/pdfreport
